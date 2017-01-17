@@ -33,6 +33,12 @@
       - name: Biometric
         tocHref: /windows/hardware/drivers/biometric/
         topicHref: /windows/hardware/drivers/biometric/index
+      - name: Dashboard
+        tocHref: /windows/hardware/drivers/dashboard/
+        topicHref: /windows/hardware/drivers/dashboard/index
+      - name: Tools for Testing Drivers
+        tocHref: /windows/hardware/drivers/devtest/
+        topicHref: /windows/hardware/drivers/devtest/index
       - name: HID
         tocHref: /windows/hardware/drivers/hid/
         topicHref: /windows/hardware/drivers/hid/index
@@ -66,6 +72,9 @@
       - name: Powermeter
         tocHref: /windows/hardware/drivers/powermeter/
         topicHref: /windows/hardware/drivers/powermeter/index
+      - name: Point-of-service
+        tocHref: /windows/hardware/drivers/pos/
+        topicHref: /windows/hardware/drivers/pos/index
       - name: Print
         tocHref: /windows/hardware/drivers/print/
         topicHref: /windows/hardware/drivers/print/index
